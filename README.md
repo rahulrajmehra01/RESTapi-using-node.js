@@ -1,9 +1,9 @@
-# RESTapi-using-node.js
+# RESTapi using node.js
 
-# Tech Stack
+## Tech Used 
 Node.js, Express and mysql as database
 
 
-# TODO list 
+## TODO list 
 Add validation\
 Add Authentication with JWT
